@@ -8,7 +8,7 @@ Research can be preliminary. This is not a venue primarily geared toward formal 
 
 ## Schedule & Logistics
 - [Fall 2021](2021F.md)
-- [Past working group website](https://sites.google.com/site/economicdynamicswg/contact-me?authuser=0)
+- [Past working group website (~2018)](https://sites.google.com/site/economicdynamicswg/contact-me?authuser=0)
 
 ### Presentation Prep
 Each presenter should prepare a 45-minute presentation.
