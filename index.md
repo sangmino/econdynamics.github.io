@@ -2,7 +2,9 @@
 
 The Economic Dynamics and Financial Markets Working Group is a weekly session in which students present their work in topics primarily in macroeconomics and finance, broadly speaking. 
 
-The group is open to PhD students and faculty and is organized by Professor Lars Hansen.
+The group is open to PhD students and faculty.
+- Faculty Organizer: [Lars Hansen](https://larspeterhansen.org/)
+- Student Coordinator (2021-22): [Sangmin Oh](https://sangmino.github.io/)
 
 Research can be preliminary. This is not a venue primarily geared toward formal presentation practice (e.g., job market talk practice). It is more oriented towards early-stage feedback. 
 
