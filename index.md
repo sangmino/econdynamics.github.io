@@ -18,16 +18,4 @@ Research can be preliminary.
 - If you want to ask "it seems like literature X is wrong about assumption A.x whereas literature Y makes a much more plausible assumption A.y -- can you comment on why you chose to go with A.x, and what would your model/estimation look like if you went with A.y?" then you should probably save it for the Q&A. It's just way too hard to answer those questions and not get derailed.
 
 ## Schedule & Logistics
-### Fall 2021
-We will be meeting in-person at SHFE 419 every Monday 4pm — 5:30pm.
-- Sep 27 Monday: Carolin (Guest), Federico
-- Oct 4 Monday: Marco, Thomas
-- Oct 11 Monday: Fulin, Manav
-- Oct 18 Monday: Aditya, Federico
-- Oct 25 Monday: Cong, Thomas
-- Nov 1 Monday: Marco, Fulin
-- Nov 8 Monday: Simon, Fulin
-- Nov 15 Monday: Manav, Thomas
-- ~~Nov 22 Monday: Aditya, Federico~~
-- Nov 29 Monday: Aditya, Federico
-- Dec 6 Monday: Simon, Cong
+- [Fall 2021](2021F.md)
