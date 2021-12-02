@@ -1,4 +1,4 @@
-## Econ Dynamics Working Group 2021-22
+## Econ Dynamics Working Group
 
 The Economic Dynamics and Financial Markets Working Group is a weekly session in which students present their work in topics primarily in macroeconomics and finance, broadly speaking. 
 - Research can be preliminary. 
