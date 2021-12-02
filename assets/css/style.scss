@@ -2,6 +2,11 @@
 ---
 @import "{{ site.theme }}";
 a {
-  color:#800000;
+  color:#8b0000;
   text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#8e3a59;
+  font-weight: bold;
 }
