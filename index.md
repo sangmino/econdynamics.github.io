@@ -9,6 +9,7 @@ The group is open to PhD students and faculty.
 Research can be preliminary. This is not a venue primarily geared toward formal presentation practice (e.g., job market talk practice). It is more oriented towards early-stage feedback. 
 
 ## Schedule & Logistics
+- [Winter 2022](2022W.md)
 - [Fall 2021](2021F.md)
 - [Past working group website (~2018)](https://sites.google.com/site/economicdynamicswg/contact-me?authuser=0)
 
