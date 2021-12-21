@@ -14,7 +14,7 @@ Research can be preliminary. This is not a venue primarily geared toward formal 
 - [Past working group website (~2018)](https://sites.google.com/site/economicdynamicswg/contact-me?authuser=0)
 
 ### Presentation Prep
-Each presenter should prepare a 45-minute presentation.
+Each presenter should aim for a 45-minute presentation. This means your slides uninterrupted should only run for 15 minutes.
 By **Sunday 5pm**, presenters should send the student organizer a short half-page document containing:
 1. Goal for the presentation: Please let us know in advance elements of your presentation that the audience can focus on
 2. Project abstract
